@@ -1,4 +1,4 @@
-# frente_registro
+# competiçoes
 
 This repository is intended to store all the write-ups from competitions the entity has participated in. Here, you will find various solved CTFs from different events, with each CTF potentially having multiple versions..
 
